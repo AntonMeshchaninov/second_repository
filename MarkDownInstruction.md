@@ -156,7 +156,7 @@ git fetch [remote-name]
 git clone <url>
 ```
 
-
+![Гит_мем](Git.jpg)
 
 
 ## Конец ##
